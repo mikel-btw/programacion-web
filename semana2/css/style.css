@@ -1,4 +1,29 @@
-/* 1. Universal */
-/* 2. Etiqueta */
+/*sección header o encabezado*/
+/* 1.Universal */
+*{
+    /*border: 1px solid red;*/
+    margin: 0; /* quita las 4 margenes externas */
+    padding: 0; /* quita las margenes internas*/
+
+}
+/* 2. Etiqueta*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #34495E;
+    text-align: center ; /* centra el contenido */
+    padding: 30px;
+}
+
+h1{
+    color: white; /* color de letra */
+    font-size: 38px;
+}
+/* sección sobre mí (section) */
 /* 3. ID */
-/* 4. Descendiente */
+#perfil{
+    background-color: #ecf0f1;
+    padding: 30px;
+    text-align: center;
+}
