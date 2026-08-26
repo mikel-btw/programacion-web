@@ -1,0 +1,18 @@
+body{
+    font-family: "Archivo Black", sans-serif;
+}
+.division{
+    height: 200px;
+    border: 3px solid blue;
+    background-color: white;
+}
+
+#container{
+    height: 400px;
+   background-color: pink;
+   display:flex;
+   flex-direction: row;
+ /*flex-wrap: wrap;*/
+ flex-flow: row wrap;
+ justify-content: space-around;
+}
