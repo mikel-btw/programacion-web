@@ -63,12 +63,12 @@ header div button {
 
 header div button:first-child {
   background-color: transparent;
-  color: #007bff;
-  border: 1px solid #007bff;
+  color: #7bff00;
+  border: 1px solid #7bff00;
 }
 
 
 header div button:last-child {
-  background-color: #007bff;
+  background-color: #7bff00;
   color: #fff;
 }
